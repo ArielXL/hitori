@@ -1,0 +1,107 @@
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe.config
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.pdb
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csprojResolveAssemblyReference.cache
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Hitori-Visual\obj\Debug\Hitori_Visual.Properties.Resources.resources
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csproj.GenerateResource.Cache
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.exe
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.pdb
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Hitori-Visual\bin\Debug\Hitori.dll
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Hitori-Visual\bin\Debug\Hitori.pdb
+F:\arel\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe.config
+F:\arel\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe
+F:\arel\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.pdb
+F:\arel\Hitori\Hitori-Visual\bin\Debug\Hitori.dll
+F:\arel\Hitori\Hitori-Visual\bin\Debug\Hitori.pdb
+F:\arel\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csprojResolveAssemblyReference.cache
+F:\arel\Hitori\Hitori-Visual\obj\Debug\Hitori_Visual.Properties.Resources.resources
+F:\arel\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csproj.GenerateResource.Cache
+F:\arel\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.exe
+F:\arel\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.pdb
+G:\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe.config
+G:\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe
+G:\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.pdb
+G:\Hitori\Hitori-Visual\bin\Debug\Hitori.dll
+G:\Hitori\Hitori-Visual\bin\Debug\Hitori.pdb
+G:\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csprojResolveAssemblyReference.cache
+G:\Hitori\Hitori-Visual\obj\Debug\Hitori_Visual.frmHitori.resources
+G:\Hitori\Hitori-Visual\obj\Debug\Hitori_Visual.Properties.Resources.resources
+G:\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csproj.GenerateResource.Cache
+G:\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.exe
+G:\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.pdb
+F:\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe
+F:\Hitori\Hitori-Visual\bin\Debug\Hitori.dll
+F:\Hitori\Hitori-Visual\bin\Debug\Hitori.pdb
+F:\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csprojResolveAssemblyReference.cache
+F:\Hitori\Hitori-Visual\obj\Debug\Hitori_Visual.frmHitori.resources
+F:\Hitori\Hitori-Visual\obj\Debug\Hitori_Visual.Properties.Resources.resources
+F:\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csproj.GenerateResource.Cache
+F:\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.exe
+F:\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.pdb
+F:\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe.config
+C:\Users\Cira\Desktop\Project\Hitori-Visual\bin\Debug\Hitori-Visual.exe.config
+C:\Users\Cira\Desktop\Project\Hitori-Visual\obj\Debug\Hitori-Visual.exe
+C:\Users\Cira\Desktop\Project\Hitori-Visual\obj\Debug\Hitori-Visual.pdb
+C:\Users\Cira\Desktop\Project\Hitori-Visual\bin\Debug\Hitori-Visual.exe
+C:\Users\Cira\Desktop\Project\Hitori-Visual\bin\Debug\Hitori-Visual.pdb
+C:\Users\Cira\Desktop\Project\Hitori-Visual\bin\Debug\Hitori.dll
+C:\Users\Cira\Desktop\Project\Hitori-Visual\bin\Debug\Hitori.pdb
+C:\Users\Cira\Desktop\Project\Hitori-Visual\obj\Debug\Hitori-Visual.csprojResolveAssemblyReference.cache
+C:\Users\Cira\Desktop\Project\Hitori-Visual\obj\Debug\Hitori_Visual.frmHitori.resources
+C:\Users\Cira\Desktop\Project\Hitori-Visual\obj\Debug\Hitori_Visual.Properties.Resources.resources
+C:\Users\Cira\Desktop\Project\Hitori-Visual\obj\Debug\Hitori-Visual.csproj.GenerateResource.Cache
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori-Visual\bin\Debug\Hitori-Visual.exe.config
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori-Visual\obj\Debug\Hitori-Visual.exe
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori-Visual\obj\Debug\Hitori-Visual.pdb
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori-Visual\bin\Debug\Hitori-Visual.exe
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori-Visual\bin\Debug\Hitori-Visual.pdb
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori-Visual\bin\Debug\Hitori.dll
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori-Visual\bin\Debug\Hitori.pdb
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori-Visual\obj\Debug\Hitori-Visual.csprojResolveAssemblyReference.cache
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori-Visual\obj\Debug\Hitori_Visual.frmHitori.resources
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori-Visual\obj\Debug\Hitori_Visual.Properties.Resources.resources
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori-Visual\obj\Debug\Hitori-Visual.csproj.GenerateResource.Cache
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori-Visual\bin\Debug\Hitori-Visual.exe.config
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori-Visual\obj\Debug\Hitori-Visual.exe
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori-Visual\obj\Debug\Hitori-Visual.pdb
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori-Visual\obj\Debug\Hitori-Visual.csprojResolveAssemblyReference.cache
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori-Visual\obj\Debug\Hitori_Visual.frmHitori.resources
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori-Visual\obj\Debug\Hitori_Visual.Properties.Resources.resources
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori-Visual\obj\Debug\Hitori-Visual.csproj.GenerateResource.Cache
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori-Visual\bin\Debug\Hitori-Visual.exe
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori-Visual\bin\Debug\Hitori-Visual.pdb
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori-Visual\bin\Debug\Hitori.dll
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori-Visual\bin\Debug\Hitori.pdb
+D:\PROGRAMACION\Project Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe.config
+D:\PROGRAMACION\Project Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.exe
+D:\PROGRAMACION\Project Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.pdb
+D:\PROGRAMACION\Project Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe
+D:\PROGRAMACION\Project Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.pdb
+D:\PROGRAMACION\Project Hitori\Hitori-Visual\bin\Debug\Hitori.dll
+D:\PROGRAMACION\Project Hitori\Hitori-Visual\bin\Debug\Hitori.pdb
+D:\PROGRAMACION\Project Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csprojResolveAssemblyReference.cache
+D:\PROGRAMACION\Project Hitori\Hitori-Visual\obj\Debug\Hitori_Visual.frmHitori.resources
+D:\PROGRAMACION\Project Hitori\Hitori-Visual\obj\Debug\Hitori_Visual.Properties.Resources.resources
+D:\PROGRAMACION\Project Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csproj.GenerateResource.Cache
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Project Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe.config
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Project Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.exe
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Project Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Project Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csprojResolveAssemblyReference.cache
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Project Hitori\Hitori-Visual\obj\Debug\Hitori_Visual.frmHitori.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Project Hitori\Hitori-Visual\obj\Debug\Hitori_Visual.Properties.Resources.resources
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Project Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csproj.GenerateResource.Cache
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Project Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Project Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.pdb
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Project Hitori\Hitori-Visual\bin\Debug\Hitori.dll
+C:\Users\Ariel\Documents\Visual Studio 2012\Projects\Project Hitori\Hitori-Visual\bin\Debug\Hitori.pdb
+D:\arreglar\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe.config
+D:\arreglar\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.exe
+D:\arreglar\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.pdb
+D:\arreglar\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.exe
+D:\arreglar\Hitori\Hitori-Visual\bin\Debug\Hitori-Visual.pdb
+D:\arreglar\Hitori\Hitori-Visual\bin\Debug\Hitori.dll
+D:\arreglar\Hitori\Hitori-Visual\bin\Debug\Hitori.pdb
+D:\arreglar\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csprojResolveAssemblyReference.cache
+D:\arreglar\Hitori\Hitori-Visual\obj\Debug\Hitori_Visual.frmHitori.resources
+D:\arreglar\Hitori\Hitori-Visual\obj\Debug\Hitori_Visual.Properties.Resources.resources
+D:\arreglar\Hitori\Hitori-Visual\obj\Debug\Hitori-Visual.csproj.GenerateResource.Cache
