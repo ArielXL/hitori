@@ -1,0 +1,52 @@
+c:\users\jorgito\documents\visual studio 2012\Projects\Hitori\Hitori\bin\Debug\Hitori.dll
+c:\users\jorgito\documents\visual studio 2012\Projects\Hitori\Hitori\bin\Debug\Hitori.pdb
+c:\users\jorgito\documents\visual studio 2012\Projects\Hitori\Hitori\obj\Debug\Hitori.dll
+c:\users\jorgito\documents\visual studio 2012\Projects\Hitori\Hitori\obj\Debug\Hitori.pdb
+c:\users\jorgito\documents\visual studio 2012\Projects\Hitori\Hitori\obj\Debug\Hitori-Logic.csprojResolveAssemblyReference.cache
+F:\arel\Hitori\Hitori\obj\Debug\Hitori-Logic.csprojResolveAssemblyReference.cache
+F:\arel\Hitori\Hitori\obj\Debug\Hitori.dll
+F:\arel\Hitori\Hitori\obj\Debug\Hitori.pdb
+F:\arel\Hitori\Hitori\bin\Debug\Hitori.dll
+F:\arel\Hitori\Hitori\bin\Debug\Hitori.pdb
+D:\PROGRAMACION\Hitori\Hitori\obj\Debug\Hitori-Logic.csprojResolveAssemblyReference.cache
+D:\PROGRAMACION\Hitori\Hitori\obj\Debug\Hitori.dll
+D:\PROGRAMACION\Hitori\Hitori\bin\Debug\Hitori.dll
+D:\PROGRAMACION\Hitori\Hitori\bin\Debug\Hitori.pdb
+D:\PROGRAMACION\Hitori\Hitori\obj\Debug\Hitori.pdb
+G:\Hitori\Hitori\obj\Debug\Hitori-Logic.csprojResolveAssemblyReference.cache
+G:\Hitori\Hitori\obj\Debug\Hitori.dll
+G:\Hitori\Hitori\bin\Debug\Hitori.dll
+G:\Hitori\Hitori\bin\Debug\Hitori.pdb
+G:\Hitori\Hitori\obj\Debug\Hitori.pdb
+H:\Hitori\Hitori\bin\Debug\Hitori.dll
+H:\Hitori\Hitori\bin\Debug\Hitori.pdb
+H:\Hitori\Hitori\obj\Debug\Hitori-Logic.csprojResolveAssemblyReference.cache
+H:\Hitori\Hitori\obj\Debug\Hitori.dll
+H:\Hitori\Hitori\obj\Debug\Hitori.pdb
+F:\Hitori\Hitori\bin\Debug\Hitori.dll
+F:\Hitori\Hitori\bin\Debug\Hitori.pdb
+F:\Hitori\Hitori\obj\Debug\Hitori.dll
+F:\Hitori\Hitori\obj\Debug\Hitori.pdb
+C:\Users\Cira\Desktop\Project\Hitori\bin\Debug\Hitori.dll
+C:\Users\Cira\Desktop\Project\Hitori\bin\Debug\Hitori.pdb
+C:\Users\Cira\Desktop\Project\Hitori\obj\Debug\Hitori.dll
+C:\Users\Cira\Desktop\Project\Hitori\obj\Debug\Hitori.pdb
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori\bin\Debug\Hitori.dll
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori\bin\Debug\Hitori.pdb
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori\obj\Debug\Hitori.dll
+C:\Users\Jorgito\Documents\Visual Studio 2012\Projects\Project\Hitori\obj\Debug\Hitori.pdb
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori\bin\Debug\Hitori.dll
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori\bin\Debug\Hitori.pdb
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori\obj\Debug\Hitori.dll
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori\obj\Debug\Hitori.pdb
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Hitori\obj\Debug\Hitori-Logic.csprojResolveAssemblyReference.cache
+D:\PROGRAMACION\Project Hitori\Hitori\bin\Debug\Hitori.dll
+D:\PROGRAMACION\Project Hitori\Hitori\bin\Debug\Hitori.pdb
+D:\PROGRAMACION\Project Hitori\Hitori\obj\Debug\Hitori-Logic.csprojResolveAssemblyReference.cache
+D:\PROGRAMACION\Project Hitori\Hitori\obj\Debug\Hitori.dll
+D:\PROGRAMACION\Project Hitori\Hitori\obj\Debug\Hitori.pdb
+D:\arreglar\Hitori\Hitori\bin\Debug\Hitori.dll
+D:\arreglar\Hitori\Hitori\bin\Debug\Hitori.pdb
+D:\arreglar\Hitori\Hitori\obj\Debug\Hitori-Logic.csprojResolveAssemblyReference.cache
+D:\arreglar\Hitori\Hitori\obj\Debug\Hitori.dll
+D:\arreglar\Hitori\Hitori\obj\Debug\Hitori.pdb
