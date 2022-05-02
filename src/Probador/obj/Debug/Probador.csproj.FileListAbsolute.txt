@@ -1,0 +1,59 @@
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Probador\bin\Debug\Probador.exe.config
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Probador\bin\Debug\Probador.exe
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Probador\bin\Debug\Probador.pdb
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Probador\obj\Debug\Probador.exe
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Probador\obj\Debug\Probador.pdb
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Probador\obj\Debug\Probador.csprojResolveAssemblyReference.cache
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Probador\bin\Debug\Hitori.dll
+c:\Users\Jorgito\documents\visual studio 2012\Projects\Hitori\Probador\bin\Debug\Hitori.pdb
+F:\arel\Hitori\Probador\bin\Debug\Probador.exe.config
+F:\arel\Hitori\Probador\obj\Debug\Probador.exe
+F:\arel\Hitori\Probador\obj\Debug\Probador.pdb
+F:\arel\Hitori\Probador\bin\Debug\Probador.exe
+F:\arel\Hitori\Probador\bin\Debug\Probador.pdb
+F:\arel\Hitori\Probador\bin\Debug\Hitori.dll
+F:\arel\Hitori\Probador\bin\Debug\Hitori.pdb
+F:\arel\Hitori\Probador\obj\Debug\Probador.csprojResolveAssemblyReference.cache
+D:\PROGRAMACION\Hitori\Probador\bin\Debug\Probador.exe.config
+D:\PROGRAMACION\Hitori\Probador\obj\Debug\Probador.exe
+D:\PROGRAMACION\Hitori\Probador\obj\Debug\Probador.pdb
+D:\PROGRAMACION\Hitori\Probador\bin\Debug\Probador.exe
+D:\PROGRAMACION\Hitori\Probador\bin\Debug\Probador.pdb
+D:\PROGRAMACION\Hitori\Probador\bin\Debug\Hitori.dll
+D:\PROGRAMACION\Hitori\Probador\bin\Debug\Hitori.pdb
+D:\PROGRAMACION\Hitori\Probador\obj\Debug\Probador.csprojResolveAssemblyReference.cache
+G:\Hitori\Probador\bin\Debug\Probador.exe.config
+G:\Hitori\Probador\obj\Debug\Probador.exe
+G:\Hitori\Probador\obj\Debug\Probador.pdb
+G:\Hitori\Probador\obj\Debug\Probador.csprojResolveAssemblyReference.cache
+G:\Hitori\Probador\bin\Debug\Probador.exe
+G:\Hitori\Probador\bin\Debug\Probador.pdb
+G:\Hitori\Probador\bin\Debug\Hitori.dll
+G:\Hitori\Probador\bin\Debug\Hitori.pdb
+H:\Hitori\Probador\bin\Debug\Probador.exe.config
+H:\Hitori\Probador\obj\Debug\Probador.exe
+H:\Hitori\Probador\obj\Debug\Probador.pdb
+F:\Hitori\Probador\bin\Debug\Probador.exe.config
+F:\Hitori\Probador\bin\Debug\Probador.exe
+F:\Hitori\Probador\bin\Debug\Probador.pdb
+F:\Hitori\Probador\bin\Debug\Hitori.dll
+F:\Hitori\Probador\bin\Debug\Hitori.pdb
+F:\Hitori\Probador\obj\Debug\Probador.csprojResolveAssemblyReference.cache
+F:\Hitori\Probador\obj\Debug\Probador.exe
+F:\Hitori\Probador\obj\Debug\Probador.pdb
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Probador\bin\Debug\Probador.exe.config
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Probador\bin\Debug\Probador.exe
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Probador\bin\Debug\Probador.pdb
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Probador\bin\Debug\Hitori.dll
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Probador\bin\Debug\Hitori.pdb
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Probador\obj\Debug\Probador.csprojResolveAssemblyReference.cache
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Probador\obj\Debug\Probador.exe
+C:\Users\Jorgito\Desktop\andres tocando mi hitori\Project\Probador\obj\Debug\Probador.pdb
+D:\PROGRAMACION\Project Hitori\Probador\bin\Debug\Probador.exe.config
+D:\PROGRAMACION\Project Hitori\Probador\bin\Debug\Probador.exe
+D:\PROGRAMACION\Project Hitori\Probador\bin\Debug\Probador.pdb
+D:\PROGRAMACION\Project Hitori\Probador\bin\Debug\Hitori.dll
+D:\PROGRAMACION\Project Hitori\Probador\bin\Debug\Hitori.pdb
+D:\PROGRAMACION\Project Hitori\Probador\obj\Debug\Probador.csprojResolveAssemblyReference.cache
+D:\PROGRAMACION\Project Hitori\Probador\obj\Debug\Probador.exe
+D:\PROGRAMACION\Project Hitori\Probador\obj\Debug\Probador.pdb
